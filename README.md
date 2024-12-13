@@ -2,7 +2,7 @@
 
 A shell with AI superpowers
 
-#### ** New **
+### ** New **
 
 There's now a [Butterfish Neovim plugin](https://github.com/bakks/butterfish.nvim)!
 
